@@ -6,4 +6,4 @@ Street view images provide us with a lot of information about urban scenes, but 
 # Overall framework
 ![alt text](https://github.com/Mahdikhoorishandiz/Enhancing-privacy/blob/main/Overall%20framework.png)
 
-Article details and source code will be published after acceptance ...
+📄 [Download Our paper](https://github.com/USERNAME/REPO-NAME/blob/main/paper/PrivacyPaper.pdf)
