@@ -8,5 +8,5 @@ Street view images provide us with a lot of information about urban scenes, but 
 
 ![Download Our paper][(https://github.com/USERNAME/REPO-NAME/blob/main/paper/PrivacyPaper.pdf](https://github.com/Mahdikhoorishandiz/Deep-Enhancing-privacy/blob/main/iust-v21n3p3300-en.pdf))
 
-![alt text](https://github.com/Mahdikhoorishandiz/Deep-Enhancing-privacy/blob/main/image_2025-04-14_11-10-34.png)
+![alt text](https://github.com/Mahdikhoorishandiz/Deep-Enhancing-privacy/blob/main/image_2025-04-14_11-10-3.png)
 
